@@ -1,5 +1,5 @@
 export default {
   isProduction: true,
-  isLoggerDisplay: true,
+  isLoggerDisplay: false,
   allowMultipleTheme: true,
 };
