@@ -167,7 +167,7 @@ const createStyles = (colors: any) =>
       headerView:{
         flexDirection:'row',
           alignItems:'center',
-          justifyContent:'flex-start',
+          justifyContent:'flex-start'
 
       }
   });
